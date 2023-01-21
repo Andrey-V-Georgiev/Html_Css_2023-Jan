@@ -1,11 +1,11 @@
-01. Navigation Bar
-02. Page Content
-03. Semantic Tags
-04. Semantic Article Page
-05. Simple Website
-06. Semantic Blog Layout
-
-
-
-
-
+01. Restaurant Menu
+02. Style Lists
+03.Styling Tables
+04.Buttons CSS
+05.Fonts Speciment 
+06.Contrasting Colors
+07.The Making of a CSS Font
+08.Font Awesome Icons
+09.Icon Font Buttons
+10.Icon Font List
+11.Create Typography CSS
