@@ -1,11 +1,9 @@
-01. Restaurant Menu
-02. Style Lists
-03.Styling Tables
-04.Buttons CSS
-05.Fonts Speciment 
-06.Contrasting Colors
-07.The Making of a CSS Font
-08.Font Awesome Icons
-09.Icon Font Buttons
-10.Icon Font List
-11.Create Typography CSS
+01. Block Model Container
+02. Scrolling Article
+03. Brazil Coffee
+04. Article
+05. Block Article
+06. Navigation Inline Block
+07. Make Your Own Website
+08. Photo Gallery Inline Block
+09. Blog Layout Inline Block

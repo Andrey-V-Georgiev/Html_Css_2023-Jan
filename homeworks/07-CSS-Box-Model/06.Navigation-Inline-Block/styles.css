@@ -1,0 +1,33 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 40px;
+    overflow: auto;
+    min-height: 1000px;
+}
+
+h1 {
+    display: inline-block;
+    width: 20%;
+}
+
+nav {
+    display: inline-block;
+    width: 70%;
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+} 
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
