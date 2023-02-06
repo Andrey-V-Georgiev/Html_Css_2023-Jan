@@ -14,7 +14,7 @@ async function example() {
     
     const joinedData = splitedData.join(' ')
     
-    const mkdirCommand = `mkdir ${joinedData}`
+    const mkdirCommand = `mkdir ${joinedData} resources`
     
     console.log(mkdirCommand)
   } catch (err) {

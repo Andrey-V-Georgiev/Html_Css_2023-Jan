@@ -1,9 +1,8 @@
-01. Block Model Container
-02. Scrolling Article
-03. Brazil Coffee
-04. Article
-05. Block Article
-06. Navigation Inline Block
-07. Make Your Own Website
-08. Photo Gallery Inline Block
-09. Blog Layout Inline Block
+01. Simple Site Layout
+02. Position Playground
+03. Center Position and Transform
+04. Navigation
+05. New Offer
+06. Social Media Icons
+07. Interior Design Studio
+08. Jewellery Website

@@ -1,0 +1,49 @@
+@import url('https://use.fontawesome.com/releases/v5.15.4/css/all.css');
+ 
+body {
+    margin: 0;
+}
+
+.viewport {
+    height: 50vh;
+    width: 100vw;
+    position: relative;
+}
+
+.viewport1 {
+    background-image: linear-gradient(to right, #106096, #1cdb95);
+
+}
+
+.viewport2 {
+    background-image: linear-gradient(to right, #dd1f87, #ef901c);
+}
+
+section.card {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card1 {
+    height: 33%;
+}
+
+.card2 {
+    height: 90%;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+i {
+    color: aliceblue;
+    position: absolute;
+    top: 90%;
+    left: 95%;
+    transform: translate(-50%, -50%);
+}
