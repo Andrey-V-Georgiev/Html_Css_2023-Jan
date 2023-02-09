@@ -1,0 +1,20 @@
+.frame {
+    position: absolute;
+    top: 250px;
+    left: 180px;
+}
+
+div {
+    position: absolute;
+    top: 450px;
+    left: 180px;
+    padding-left: 15px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+span {
+    color: gray;
+}
