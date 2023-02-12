@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+div.container {
+    display: flex;
+    max-width: 65vw;
+}
+
+section.week {
+    display: flex;
+    flex-wrap: wrap;
+    width: 75%;
+}
+
+
+span {
+    display: block;
+    padding: 16px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.day {
+    width: 20%;
+}
+
+.workweek, .weekend {
+    width: 100%;
+}
+
+.saturday, .sunday {
+    width: 50%;
+}
+
+section.notes {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+
+section.notes span {
+    width: 100%;
+    flex: 1 1 100%;
+}
+

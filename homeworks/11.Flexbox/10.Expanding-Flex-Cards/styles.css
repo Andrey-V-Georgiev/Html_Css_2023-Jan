@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} 
+
+.container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    height: 10%;
+    width: 70vw;
+    height: 25vw;
+}
+
+.frame {
+    width: 15%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 7px;
+    box-shadow: 0 0 10px 2px #333333;
+} 
+
+.container div:nth-child(2) {
+    flex-grow: 1;
+}

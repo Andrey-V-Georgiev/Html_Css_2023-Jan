@@ -83,3 +83,7 @@ main.aside {
 article section header h1 {
     font-weight: bold;
 }
+
+blockquote {
+    font-family: Georgia, serif;
+}
