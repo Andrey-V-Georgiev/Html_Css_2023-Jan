@@ -1,0 +1,78 @@
+:root {
+    --gray-bgr: #f6f8f9;
+    --gray-light-font: #646f79;
+    --gray-dark-font: #283240;
+    --purple-btn: #806df9;
+}
+
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px 0px;
+    font-family: Helvetica, sans-serif;
+}
+
+main.container {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0px 50px 0px;
+    background-color: var(--gray-bgr);
+    border-radius: 5px;
+}
+
+section.info {
+    width: 30%;
+    letter-spacing: 0.5px;
+    padding: 60px 0px;
+}
+
+section.info h4 {
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--gray-dark-font);
+}
+
+section.info h1 {
+    font-size: 2rem;
+    font-weight: 500;
+    color: var(--gray-dark-font);
+    margin: 0%;
+}
+
+section.info p {
+    color: var(--gray-light-font);
+    /* letter-spacing: 1px; */
+    line-height: 1.6;
+}
+
+section.info .btn {
+    all: unset;
+    padding: 8px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 2px;
+    margin-top: 8px;
+    margin-right: 6px;
+}
+
+section.info .btn.sales {
+    background-color: var(--purple-btn);
+    border: 1px solid var(--purple-btn);
+    color: white;
+}
+
+section.info .btn.more {
+    background-color: var(--gray-bgr);
+    border: 1px solid var(--gray-dark-font);
+    color: var(--gray-dark-font);
+}
+
+img {
+    width: 25%;
+    margin-top: 50px;
+    align-self: flex-end;
+}

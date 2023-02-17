@@ -1,8 +1,7 @@
-01. Simple Site Layout
-02. Position Playground
-03. Center Position and Transform
-04. Navigation
-05. New Offer
-06. Social Media Icons
-07. Interior Design Studio
-08. Jewellery Website
+01. Responsive Site Layout
+02. Responsive Top Menu
+03. Media Queries in Typography
+04. Responsive Forms
+05. Responsive Media Boxes
+06. Landing Page
+07. Responsive Tables
